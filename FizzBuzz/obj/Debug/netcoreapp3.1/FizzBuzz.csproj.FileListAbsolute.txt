@@ -1,0 +1,13 @@
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.csprojAssemblyReference.cache
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.AssemblyInfoInputs.cache
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.AssemblyInfo.cs
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.csproj.CoreCompileInputs.cache
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.exe
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.deps.json
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.runtimeconfig.json
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.runtimeconfig.dev.json
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.dll
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.pdb
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.dll
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.pdb
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.genruntimeconfig.cache
