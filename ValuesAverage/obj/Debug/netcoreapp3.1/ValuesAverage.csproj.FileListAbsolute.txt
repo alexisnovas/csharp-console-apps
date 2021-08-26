@@ -1,0 +1,13 @@
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\ValuesAverage\obj\Debug\netcoreapp3.1\ValuesAverage.csprojAssemblyReference.cache
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\ValuesAverage\obj\Debug\netcoreapp3.1\ValuesAverage.AssemblyInfoInputs.cache
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\ValuesAverage\obj\Debug\netcoreapp3.1\ValuesAverage.AssemblyInfo.cs
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\ValuesAverage\obj\Debug\netcoreapp3.1\ValuesAverage.csproj.CoreCompileInputs.cache
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\ValuesAverage\bin\Debug\netcoreapp3.1\ValuesAverage.exe
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\ValuesAverage\bin\Debug\netcoreapp3.1\ValuesAverage.deps.json
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\ValuesAverage\bin\Debug\netcoreapp3.1\ValuesAverage.runtimeconfig.json
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\ValuesAverage\bin\Debug\netcoreapp3.1\ValuesAverage.runtimeconfig.dev.json
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\ValuesAverage\bin\Debug\netcoreapp3.1\ValuesAverage.dll
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\ValuesAverage\bin\Debug\netcoreapp3.1\ValuesAverage.pdb
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\ValuesAverage\obj\Debug\netcoreapp3.1\ValuesAverage.dll
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\ValuesAverage\obj\Debug\netcoreapp3.1\ValuesAverage.pdb
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\ValuesAverage\obj\Debug\netcoreapp3.1\ValuesAverage.genruntimeconfig.cache

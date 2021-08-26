@@ -1,0 +1,13 @@
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\NumberDigitsCount\bin\Debug\netcoreapp3.1\NumberDigitsCount.exe
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\NumberDigitsCount\bin\Debug\netcoreapp3.1\NumberDigitsCount.deps.json
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\NumberDigitsCount\bin\Debug\netcoreapp3.1\NumberDigitsCount.runtimeconfig.json
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\NumberDigitsCount\bin\Debug\netcoreapp3.1\NumberDigitsCount.runtimeconfig.dev.json
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\NumberDigitsCount\bin\Debug\netcoreapp3.1\NumberDigitsCount.dll
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\NumberDigitsCount\bin\Debug\netcoreapp3.1\NumberDigitsCount.pdb
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\NumberDigitsCount\obj\Debug\netcoreapp3.1\NumberDigitsCount.csprojAssemblyReference.cache
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\NumberDigitsCount\obj\Debug\netcoreapp3.1\NumberDigitsCount.AssemblyInfoInputs.cache
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\NumberDigitsCount\obj\Debug\netcoreapp3.1\NumberDigitsCount.AssemblyInfo.cs
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\NumberDigitsCount\obj\Debug\netcoreapp3.1\NumberDigitsCount.csproj.CoreCompileInputs.cache
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\NumberDigitsCount\obj\Debug\netcoreapp3.1\NumberDigitsCount.dll
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\NumberDigitsCount\obj\Debug\netcoreapp3.1\NumberDigitsCount.pdb
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\NumberDigitsCount\obj\Debug\netcoreapp3.1\NumberDigitsCount.genruntimeconfig.cache

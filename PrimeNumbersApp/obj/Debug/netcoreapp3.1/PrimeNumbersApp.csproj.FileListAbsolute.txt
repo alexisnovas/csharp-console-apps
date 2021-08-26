@@ -1,0 +1,13 @@
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\PrimeNumbersApp\bin\Debug\netcoreapp3.1\PrimeNumbersApp.exe
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\PrimeNumbersApp\bin\Debug\netcoreapp3.1\PrimeNumbersApp.deps.json
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\PrimeNumbersApp\bin\Debug\netcoreapp3.1\PrimeNumbersApp.runtimeconfig.json
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\PrimeNumbersApp\bin\Debug\netcoreapp3.1\PrimeNumbersApp.runtimeconfig.dev.json
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\PrimeNumbersApp\bin\Debug\netcoreapp3.1\PrimeNumbersApp.dll
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\PrimeNumbersApp\bin\Debug\netcoreapp3.1\PrimeNumbersApp.pdb
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\PrimeNumbersApp\obj\Debug\netcoreapp3.1\PrimeNumbersApp.csprojAssemblyReference.cache
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\PrimeNumbersApp\obj\Debug\netcoreapp3.1\PrimeNumbersApp.AssemblyInfoInputs.cache
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\PrimeNumbersApp\obj\Debug\netcoreapp3.1\PrimeNumbersApp.AssemblyInfo.cs
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\PrimeNumbersApp\obj\Debug\netcoreapp3.1\PrimeNumbersApp.csproj.CoreCompileInputs.cache
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\PrimeNumbersApp\obj\Debug\netcoreapp3.1\PrimeNumbersApp.dll
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\PrimeNumbersApp\obj\Debug\netcoreapp3.1\PrimeNumbersApp.pdb
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\PrimeNumbersApp\obj\Debug\netcoreapp3.1\PrimeNumbersApp.genruntimeconfig.cache

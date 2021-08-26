@@ -1,0 +1,13 @@
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\OngVaccinesDeliverApp\obj\Debug\netcoreapp3.1\OngVaccinesDeliverApp.csprojAssemblyReference.cache
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\OngVaccinesDeliverApp\obj\Debug\netcoreapp3.1\OngVaccinesDeliverApp.AssemblyInfoInputs.cache
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\OngVaccinesDeliverApp\obj\Debug\netcoreapp3.1\OngVaccinesDeliverApp.AssemblyInfo.cs
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\OngVaccinesDeliverApp\obj\Debug\netcoreapp3.1\OngVaccinesDeliverApp.csproj.CoreCompileInputs.cache
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\OngVaccinesDeliverApp\bin\Debug\netcoreapp3.1\OngVaccinesDeliverApp.exe
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\OngVaccinesDeliverApp\bin\Debug\netcoreapp3.1\OngVaccinesDeliverApp.deps.json
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\OngVaccinesDeliverApp\bin\Debug\netcoreapp3.1\OngVaccinesDeliverApp.runtimeconfig.json
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\OngVaccinesDeliverApp\bin\Debug\netcoreapp3.1\OngVaccinesDeliverApp.runtimeconfig.dev.json
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\OngVaccinesDeliverApp\bin\Debug\netcoreapp3.1\OngVaccinesDeliverApp.dll
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\OngVaccinesDeliverApp\bin\Debug\netcoreapp3.1\OngVaccinesDeliverApp.pdb
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\OngVaccinesDeliverApp\obj\Debug\netcoreapp3.1\OngVaccinesDeliverApp.dll
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\OngVaccinesDeliverApp\obj\Debug\netcoreapp3.1\OngVaccinesDeliverApp.pdb
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\OngVaccinesDeliverApp\obj\Debug\netcoreapp3.1\OngVaccinesDeliverApp.genruntimeconfig.cache

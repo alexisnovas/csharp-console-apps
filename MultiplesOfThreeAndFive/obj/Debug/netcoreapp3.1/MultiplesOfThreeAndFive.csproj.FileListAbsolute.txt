@@ -1,0 +1,13 @@
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\MultiplesOfThreeAndFive\bin\Debug\netcoreapp3.1\MultiplesOfThreeAndFive.exe
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\MultiplesOfThreeAndFive\bin\Debug\netcoreapp3.1\MultiplesOfThreeAndFive.deps.json
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\MultiplesOfThreeAndFive\bin\Debug\netcoreapp3.1\MultiplesOfThreeAndFive.runtimeconfig.json
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\MultiplesOfThreeAndFive\bin\Debug\netcoreapp3.1\MultiplesOfThreeAndFive.runtimeconfig.dev.json
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\MultiplesOfThreeAndFive\bin\Debug\netcoreapp3.1\MultiplesOfThreeAndFive.dll
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\MultiplesOfThreeAndFive\bin\Debug\netcoreapp3.1\MultiplesOfThreeAndFive.pdb
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\MultiplesOfThreeAndFive\obj\Debug\netcoreapp3.1\MultiplesOfThreeAndFive.csprojAssemblyReference.cache
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\MultiplesOfThreeAndFive\obj\Debug\netcoreapp3.1\MultiplesOfThreeAndFive.AssemblyInfoInputs.cache
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\MultiplesOfThreeAndFive\obj\Debug\netcoreapp3.1\MultiplesOfThreeAndFive.AssemblyInfo.cs
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\MultiplesOfThreeAndFive\obj\Debug\netcoreapp3.1\MultiplesOfThreeAndFive.csproj.CoreCompileInputs.cache
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\MultiplesOfThreeAndFive\obj\Debug\netcoreapp3.1\MultiplesOfThreeAndFive.dll
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\MultiplesOfThreeAndFive\obj\Debug\netcoreapp3.1\MultiplesOfThreeAndFive.pdb
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\MultiplesOfThreeAndFive\obj\Debug\netcoreapp3.1\MultiplesOfThreeAndFive.genruntimeconfig.cache

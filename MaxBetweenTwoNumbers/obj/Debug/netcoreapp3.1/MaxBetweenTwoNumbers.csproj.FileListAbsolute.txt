@@ -1,0 +1,13 @@
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\MaxBetweenTwoNumbers\bin\Debug\netcoreapp3.1\MaxBetweenTwoNumbers.exe
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\MaxBetweenTwoNumbers\bin\Debug\netcoreapp3.1\MaxBetweenTwoNumbers.deps.json
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\MaxBetweenTwoNumbers\bin\Debug\netcoreapp3.1\MaxBetweenTwoNumbers.runtimeconfig.json
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\MaxBetweenTwoNumbers\bin\Debug\netcoreapp3.1\MaxBetweenTwoNumbers.runtimeconfig.dev.json
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\MaxBetweenTwoNumbers\bin\Debug\netcoreapp3.1\MaxBetweenTwoNumbers.dll
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\MaxBetweenTwoNumbers\bin\Debug\netcoreapp3.1\MaxBetweenTwoNumbers.pdb
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\MaxBetweenTwoNumbers\obj\Debug\netcoreapp3.1\MaxBetweenTwoNumbers.csprojAssemblyReference.cache
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\MaxBetweenTwoNumbers\obj\Debug\netcoreapp3.1\MaxBetweenTwoNumbers.AssemblyInfoInputs.cache
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\MaxBetweenTwoNumbers\obj\Debug\netcoreapp3.1\MaxBetweenTwoNumbers.AssemblyInfo.cs
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\MaxBetweenTwoNumbers\obj\Debug\netcoreapp3.1\MaxBetweenTwoNumbers.csproj.CoreCompileInputs.cache
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\MaxBetweenTwoNumbers\obj\Debug\netcoreapp3.1\MaxBetweenTwoNumbers.dll
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\MaxBetweenTwoNumbers\obj\Debug\netcoreapp3.1\MaxBetweenTwoNumbers.pdb
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\MaxBetweenTwoNumbers\obj\Debug\netcoreapp3.1\MaxBetweenTwoNumbers.genruntimeconfig.cache

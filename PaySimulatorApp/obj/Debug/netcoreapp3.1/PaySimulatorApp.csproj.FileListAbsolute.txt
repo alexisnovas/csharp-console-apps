@@ -1,0 +1,13 @@
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\PaySimulatorApp\bin\Debug\netcoreapp3.1\PaySimulatorApp.exe
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\PaySimulatorApp\bin\Debug\netcoreapp3.1\PaySimulatorApp.deps.json
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\PaySimulatorApp\bin\Debug\netcoreapp3.1\PaySimulatorApp.runtimeconfig.json
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\PaySimulatorApp\bin\Debug\netcoreapp3.1\PaySimulatorApp.runtimeconfig.dev.json
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\PaySimulatorApp\bin\Debug\netcoreapp3.1\PaySimulatorApp.dll
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\PaySimulatorApp\bin\Debug\netcoreapp3.1\PaySimulatorApp.pdb
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\PaySimulatorApp\obj\Debug\netcoreapp3.1\PaySimulatorApp.csprojAssemblyReference.cache
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\PaySimulatorApp\obj\Debug\netcoreapp3.1\PaySimulatorApp.AssemblyInfoInputs.cache
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\PaySimulatorApp\obj\Debug\netcoreapp3.1\PaySimulatorApp.AssemblyInfo.cs
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\PaySimulatorApp\obj\Debug\netcoreapp3.1\PaySimulatorApp.csproj.CoreCompileInputs.cache
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\PaySimulatorApp\obj\Debug\netcoreapp3.1\PaySimulatorApp.dll
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\PaySimulatorApp\obj\Debug\netcoreapp3.1\PaySimulatorApp.pdb
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\PaySimulatorApp\obj\Debug\netcoreapp3.1\PaySimulatorApp.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\ProccesPieces\obj\Debug\netcoreapp3.1\ProccesPieces.csprojAssemblyReference.cache
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\ProccesPieces\obj\Debug\netcoreapp3.1\ProccesPieces.AssemblyInfoInputs.cache
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\ProccesPieces\obj\Debug\netcoreapp3.1\ProccesPieces.AssemblyInfo.cs
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\ProccesPieces\obj\Debug\netcoreapp3.1\ProccesPieces.csproj.CoreCompileInputs.cache
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\ProccesPieces\bin\Debug\netcoreapp3.1\ProccesPieces.exe
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\ProccesPieces\bin\Debug\netcoreapp3.1\ProccesPieces.deps.json
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\ProccesPieces\bin\Debug\netcoreapp3.1\ProccesPieces.runtimeconfig.json
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\ProccesPieces\bin\Debug\netcoreapp3.1\ProccesPieces.runtimeconfig.dev.json
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\ProccesPieces\bin\Debug\netcoreapp3.1\ProccesPieces.dll
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\ProccesPieces\bin\Debug\netcoreapp3.1\ProccesPieces.pdb
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\ProccesPieces\obj\Debug\netcoreapp3.1\ProccesPieces.dll
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\ProccesPieces\obj\Debug\netcoreapp3.1\ProccesPieces.pdb
+D:\Solutions 2.0\csharp_exercises\csharp-console-apps\ProccesPieces\obj\Debug\netcoreapp3.1\ProccesPieces.genruntimeconfig.cache
