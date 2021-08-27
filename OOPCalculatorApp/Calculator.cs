@@ -13,8 +13,19 @@ namespace OOPCalculatorApp
             _result = 0;
         }
 
+        public double result { get => _result; set => _result = value;}
+        
+        //Ejemplo Getters y Setters
+
         //public double result { get => _result; set => _result = value; }
         
+        
+        //Ejemplo override method.
+
+        // public override string ToString(){
+            
+        // }
+
         public double Add(double operand1, double operand2)
         {
             _result = operand1 + operand2;
@@ -38,5 +49,7 @@ namespace OOPCalculatorApp
             _result = operand1 * operand2;
             return _result;
         }
+        
     }
+
 }
