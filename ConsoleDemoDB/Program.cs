@@ -25,7 +25,7 @@ namespace ConsoleDemoDB
             try
             {
                 //TODO: Cambiar tus datos por los de tu Base de datos
-                cadenaDeConexion = @"Server=servername;Database=databasename;User Id=exampleusername;Password=example123";
+                cadenaDeConexion = @"Server=DESKTOP-5U9DR7H;Database=Test;User Id=sa;Password=trueno01";
                 conexion = new SqlConnection(cadenaDeConexion);
                 conexion.Open();
                 Console.WriteLine("Conexion exitosa a SQL Server");
